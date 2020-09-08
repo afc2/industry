@@ -64,6 +64,10 @@ ol, ul {
   list-style: none;
 }
 
+final-list{
+  color: #FFFAF0;
+}
+
 select {
   display: block;
 }
