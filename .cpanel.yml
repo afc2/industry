@@ -1,0 +1,6 @@
+---
+deployment:
+ tasks:
+ - export DEPLOYPATH=/home3/alexa665/public_html/multimaquinas
+ - /bin/cp index.html $DEPLOYPATH
+ - /bin/cp style.css $DEPLOYPATH
